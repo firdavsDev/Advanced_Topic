@@ -4,7 +4,6 @@ Factory Disign Pattern  - if we have object and we dont know is Student or Teach
 
 YouTube: NeuralNine
 """
-
 from abc import ABCMeta, abstractstaticmethod
 
 class IPerson(metaclass = ABCMeta):
