@@ -58,6 +58,7 @@ class ParentDepartment(IDepartment):
 dept1 = Accounting(200)
 dept2 = Development(100)
 ######################################
+
 paretnt_dept = ParentDepartment(300)
 paretnt_dept.add(dept1)
 paretnt_dept.add(dept2)
