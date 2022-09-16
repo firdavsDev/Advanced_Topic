@@ -1,5 +1,5 @@
 """
-    GRAPH are used to represent many real-life applications like networks, transportation path of city, and social netwprok connections.
+    GRAPH are used to represent many real-life applications like networks, transportation path of city, and social network connections.
 
     A Graph is set of connected "nodes" where each "NODE" is called a "VERTEX" and  the connection between two of them is called "EDGE"
 
