@@ -3,5 +3,3 @@ YouTube: https://youtu.be/NAOsLaB6Lfc
 Web: https://kubernetes.io/
 
 ## Django & K8S
-
-
