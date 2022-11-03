@@ -1,0 +1,8 @@
+2022-10-11 18:40:14,570 - exc_logger - ERROR - exception in divideByZero
+=============
+Traceback (most recent call last):
+  File "/home/ubuntu/Desktop/PythonAdvanced/Software design in Python/betterpython/7 - dealing with errors/advanced/logging-decorator.py", line 35, in wrapper
+    return func(*args, **kwargs)
+  File "/home/ubuntu/Desktop/PythonAdvanced/Software design in Python/betterpython/7 - dealing with errors/advanced/logging-decorator.py", line 49, in divideByZero
+    return 12/0
+ZeroDivisionError: division by zero
